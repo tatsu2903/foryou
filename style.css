@@ -585,7 +585,7 @@ body {
     opacity: 0;
     position: absolute;
     right: 20px;
-    top: -50px;
+    top: -30px;
 }
 .love__img.animationOp{
     animation: opacityHeart 1s 1s forwards;
